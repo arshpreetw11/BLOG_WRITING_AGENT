@@ -97,8 +97,8 @@ TAVILY_API_KEY=****
 ## Installation
 
 ```bash
-git clone https://github.com/arshpreetw11/blog_writing_agent.git
-cd blog-writing-agent
+git clone https://github.com/arshpreetw11/BLOG_WRITING_AGENT.git
+cd BLOG_WRITING_AGENT
 
 python -m venv venv
 
